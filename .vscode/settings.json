@@ -1,0 +1,8 @@
+{
+  "[go]": {
+    "editor.formatOnSave": false
+  },
+  "editor.formatOnSave": false,
+  "files.trimTrailingWhitespaceInRegexAndStrings": false,
+  "notebook.formatOnSave.enabled": false
+}
